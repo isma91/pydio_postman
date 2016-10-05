@@ -45,7 +45,7 @@
 							"mode": "formdata",
 							"formdata": []
 						},
-						"description": "Check if the user/password is good to connect to Pydio"
+						"description": "Check if user credentials is good to connect to Pydio"
 					},
 					"response": []
 				},
